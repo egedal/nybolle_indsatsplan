@@ -1,0 +1,27 @@
+site_name: Nybølle indsatsplan for grundvandsbeskyttelse
+
+theme:
+  name: 'material'
+  language: 'da'
+  feature:
+    tabs: true
+  palette:
+    primary: 'light green'
+    accent: 'pink'
+
+pages: 
+  - Indledning:
+    - index.md
+    - hvad_er_indsats.md
+
+  - Indsatsplaner og målsætninger:
+    - ind_formaal.md
+    - nitrat.md
+  - Indsatser:
+    - ind_og_maal.md
+  - Vandforsyninger:
+    - birke_vand.md
+  - Retningslinjer:
+    - bnbo.md
+  - Resume:
+    - resume.md

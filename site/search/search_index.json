@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Indledning"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/ind_formaal/", 
+            "text": "Dette er indledningen.", 
+            "title": "Ind formaal"
+        }, 
+        {
+            "location": "/ind_og_maal/", 
+            "text": "Om indsatemaer og m\u00e5ls\u00e6tninger.", 
+            "title": "Ind og maal"
+        }, 
+        {
+            "location": "/birke_vand/", 
+            "text": "Om Birkev\u00e6nget Vandv\u00e6rk.", 
+            "title": "Birke vand"
+        }, 
+        {
+            "location": "/bnbo/", 
+            "text": "Om BNBO.", 
+            "title": "Bnbo"
+        }, 
+        {
+            "location": "/resume/", 
+            "text": "En kort opsamling.", 
+            "title": "Resume"
+        }
+    ]
+}
